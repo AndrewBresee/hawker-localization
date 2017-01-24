@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/PhysicalGraph/hawker-localization#readme",
   "dependencies": {
-    "contentful": "^3.8.0"
+    "contentful": "^3.8.0",
+    "xlsx": "^0.8.1"
   }
 }
